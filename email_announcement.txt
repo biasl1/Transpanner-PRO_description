@@ -1,15 +1,15 @@
 
-    Subject: Announcing Transpanner PRO 
+    Subject: Announcing Transpanner 2
 
     Body:
-    We are thrilled to introduce Transpanner PRO , a groundbreaking audio plugin. Transpanner 2 is a "pay what you want" 3D audio plugin optimized for stereo loudspeakers. This release redefines what a spatial audio tool can be, setting a new benchmark in its category!
+    We are thrilled to introduce Transpanner 2, a groundbreaking audio plugin. Transpanner 2 is a "pay what you want" 3D audio plugin optimized for stereo loudspeakers. This release redefines what a spatial audio tool can be, setting a new benchmark in its category!
 
     Unique Features:
-    This plugin stands out with its advanced adaptive noise reduction algorithm, which intelligently reduces background noise while preserving audio clarity. Unlike other plugins, it offers real-time processing with minimal latency, making it ideal for live performances and streaming applications
+    When you adjust the controls in Transpanner 2, it tailors these sound wave properties in such a way that your brain is tricked into perceiving the sound as coming from different directions, including from behind you. This creates a 3D audio effect, enveloping you in a more lifelike and immersive sound environment, all from a stereo setup.
 
     Pricing:
-    Payed
+    
 
     Call to Action:
-    Visit our website to learn more and download Transpanner PRO .
+    Visit our website to learn more and download Transpanner 2.
     
