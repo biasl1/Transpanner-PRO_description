@@ -5,7 +5,7 @@
     We are thrilled to introduce Transpanner 2, a groundbreaking audio plugin. Transpanner 2 is a "pay what you want" 3D audio plugin optimized for stereo loudspeakers. This release redefines what a spatial audio tool can be, setting a new benchmark in its category!
 
     Unique Features:
-    When you adjust the controls in Transpanner 2, it tailors these sound wave properties in such a way that your brain is tricked into perceiving the sound as coming from different directions, including from behind you. This creates a 3D audio effect, enveloping you in a more lifelike and immersive sound environment, all from a stereo setup.
+    When you adjust the controls in Transpanner 2, it tailors these sound wave properties in such a way that your brain is tricked into perceiving the sound as coming from different directions, including from behind you. This creates a 3D audio effect, enveloping you in a more lifelike and super immersive sound environment, all from a stereo setup.
 
     Pricing:
     
